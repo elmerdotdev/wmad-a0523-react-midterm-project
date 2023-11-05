@@ -11,12 +11,12 @@
 
 ## Guidelines
 
-- Your React application should have all these functionalities:
+Your React application should have all these functionalities:
 
-  - C.R.U.D. The user should be able to create, retrieve, update, and delete data.
-  - Must have at least five routes (nested routes are included in the count)
-  - Must use Context API
-  - Must be mobile responsive
+- C.R.U.D. The user should be able to create, retrieve, update, and delete data.
+- Must have at least five routes (nested routes are included in the count)
+- Must use Context API
+- Must be mobile responsive
 
 ## Tools
 
