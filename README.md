@@ -35,3 +35,5 @@ Here are some tools and resources that can help with your development:
 - Presentation must be at least 5 minutes and not more than 15 minutes.
 - You can talk about your design process, why you chose that specific niche, cool components you added in, etc.
 - Presentation slides are *optional*
+
+Good luck!
