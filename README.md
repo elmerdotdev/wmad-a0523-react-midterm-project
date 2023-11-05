@@ -22,8 +22,9 @@ Your React application should have all these functionalities:
 
 Here are some tools and resources that can help with your development:
 
-- [Figma](https://www.figma.com/)
-- [React Bootstrap - Layout](https://react-bootstrap.netlify.app/)
+- [Figm - Wireframe/Design](https://www.figma.com/)
+- [React Bootstrap - Layout/Components](https://react-bootstrap.netlify.app/)
+- [Material UI - Layout/Components](https://mui.com/material-ui/)
 - [Fontawesome - Icons](https://fontawesome.com/v5/docs/web/use-with/react#get-started)
 - [Google Fonts - Fonts](https://fonts.google.com/)
 - [RapidAPI - API Collection](https://rapidapi.com/)
